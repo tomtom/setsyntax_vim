@@ -1,6 +1,3 @@
-*setsyntax.txt*     Set options specific for the syntax group under cursor
-
-
 This plugin sets options/variables according to the syntax under the 
 cursor. It was originally created in response to 
 http://groups.google.com/group/vim_use/browse_frm/thread/ff624d5a68f0a562 
