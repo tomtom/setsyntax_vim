@@ -3,8 +3,8 @@
 " @Website:     http://www.vim.org/account/profile.php?user_id=4037
 " @License:     GPL (see http://www.gnu.org/licenses/gpl.txt)
 " @Created:     2007-11-18.
-" @Last Change: 2010-01-03.
-" @Revision:    0.0.152
+" @Last Change: 2014-10-21.
+" @Revision:    0.0.154
 
 let s:save_cpo = &cpo
 set cpo&vim
